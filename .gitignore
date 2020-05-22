@@ -1,4 +1,4 @@
-.class
-.bin
-.txt
-.tests
+*.class
+*.bin
+*.txt
+*.tests
